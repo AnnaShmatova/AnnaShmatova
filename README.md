@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 About me:
-⚡ Transition to data analytics in March 2022
-🔭 Marketing background and business-analytics with 8 years professional experience
-🌱 I’m currently learnin Python, SQL, Power BI, Tableau
-📫 How to reach me: 
-an.shmatova@gmail.com
-https://t.me/@anna_shmatova
+- ⚡ Transition to data analytics in March 2022
+- 🔭 Marketing background and business-analytics with 8 years professional experience
+- 🌱 I’m currently learnin Python, SQL, Power BI, Tableau
+- 📫 How to reach me: an.shmatova@gmail.com, https://t.me/@anna_shmatova
 
 <!--
 **AnnaShmatova/AnnaShmatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
